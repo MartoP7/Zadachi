@@ -1,0 +1,8 @@
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\listoveSumiraneDR\bin\Debug\listoveSumiraneDR.exe.config
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\listoveSumiraneDR\bin\Debug\listoveSumiraneDR.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\listoveSumiraneDR\bin\Debug\listoveSumiraneDR.pdb
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\listoveSumiraneDR\obj\Debug\listoveSumiraneDR.csproj.AssemblyReference.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\listoveSumiraneDR\obj\Debug\listoveSumiraneDR.csproj.SuggestedBindingRedirects.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\listoveSumiraneDR\obj\Debug\listoveSumiraneDR.csproj.CoreCompileInputs.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\listoveSumiraneDR\obj\Debug\listoveSumiraneDR.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\listoveSumiraneDR\obj\Debug\listoveSumiraneDR.pdb
