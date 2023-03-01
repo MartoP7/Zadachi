@@ -1,0 +1,8 @@
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\fibonachi\bin\Debug\fibonachi.exe.config
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\fibonachi\bin\Debug\fibonachi.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\fibonachi\bin\Debug\fibonachi.pdb
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\fibonachi\obj\Debug\fibonachi.csproj.AssemblyReference.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\fibonachi\obj\Debug\fibonachi.csproj.SuggestedBindingRedirects.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\fibonachi\obj\Debug\fibonachi.csproj.CoreCompileInputs.cache
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\fibonachi\obj\Debug\fibonachi.exe
+C:\9D - Martin Papazov\III. PROGRAMIRANE\Listove\fibonachi\obj\Debug\fibonachi.pdb

@@ -5,6 +5,8 @@ VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listoveSumiraneDR", "listoveSumiraneDR\listoveSumiraneDR.csproj", "{A20F9435-99AA-43F1-9970-FC7F4AE8A953}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fibonachi", "fibonachi\fibonachi.csproj", "{0D448FC1-077D-45F9-8422-1339ADA10A4D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{A20F9435-99AA-43F1-9970-FC7F4AE8A953}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A20F9435-99AA-43F1-9970-FC7F4AE8A953}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A20F9435-99AA-43F1-9970-FC7F4AE8A953}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D448FC1-077D-45F9-8422-1339ADA10A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D448FC1-077D-45F9-8422-1339ADA10A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D448FC1-077D-45F9-8422-1339ADA10A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D448FC1-077D-45F9-8422-1339ADA10A4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
